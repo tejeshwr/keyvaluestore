@@ -1,6 +1,6 @@
 # keyvaluestore
 
-Usage:keyValueStore <filepath> [<operation>]
+Usage:keyValueStore filepath operation
 Note:operation can be -c or -d or -g: -c is Create,-d is Delete, -g is GetValue
 
 # How to invoke the Main class
